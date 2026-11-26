@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="obsidian" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d14"/>
+    </linearGradient>
+    <linearGradient id="emerald" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="116" height="116" rx="28" fill="url(#obsidian)" stroke="#1e293b" stroke-width="3"/>
+  <path d="M26 88 L56 64 L96 34" fill="none" stroke="url(#emerald)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M56 64 L96 92" fill="none" stroke="url(#amber)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="82,30 98,33 93,49" fill="none" stroke="#06b6d4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="82,95 98,93 94,77" fill="none" stroke="#a855f7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="26" cy="88" r="8" fill="#10b981" stroke="#090d14" stroke-width="3"/>
+  <circle cx="56" cy="64" r="7" fill="#e2e8f0"/>
+</svg>
+
